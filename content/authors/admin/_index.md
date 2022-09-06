@@ -14,7 +14,7 @@ organizations:
     url: https://www.tatacommunications.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include Network Design and SOlutions, CLoud Networking and SD-WAN.
 
 # Interests to show in About widget
 interests:
@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Bachelor of Engineering in Electronics and Communication
-      institution: Anna University
+    - course: Bachelor of Engineering in Electronics and Communications
+      institution: Anna University, Chennai, India
       year: 2009
 
 
@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:mail@rajavel.in
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rajavel
