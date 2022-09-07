@@ -65,8 +65,6 @@ highlight_name: true
 
 Hi, I am Rajavel! I am a Network Solutions Architect working at Tata Communications, India. 
 
-I am a Certified Network Professional with over 13 years of experience in designing, deploying, and maintaining Network infrastructure for various Professional services companies and Telecom Service Providers. 
-
-My area of expertise is Enterprise Network Design, Cloud Networking and SD-WAN Implementations.
+I am a Certified Network Professional with over 13 years of experience in designing, deploying, and maintaining Network infrastructure for various Professional services companies and Telecom Service Providers. My area of expertise is Enterprise Network Design, Cloud Networking and SD-WAN Implementations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
