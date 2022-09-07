@@ -14,7 +14,7 @@ organizations:
     url: https://www.tatacommunications.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Network Design and SOlutions, CLoud Networking and SD-WAN.
+bio: My interests include Network Design and Solutions, CLoud Networking and SD-WAN.
 
 # Interests to show in About widget
 interests:
