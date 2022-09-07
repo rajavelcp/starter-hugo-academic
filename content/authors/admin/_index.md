@@ -21,6 +21,7 @@ interests:
   - Network Design & Solutions
   - Cloud Networking
   - SD-WAN
+  - Travelling
 
 # Education to show in About widget
 education:
