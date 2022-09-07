@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Resume
-    url: 'https://github.com/rajavelcp/starter-hugo-academic/blob/main/static/uploads/resume.pdf'
+    url: 'https://www.dropbox.com/s/4vnbca3m9mo7hno/Rajavel%20Pachamuthu_Resume.pdf?dl=0'
     weight: 20
   - name: Contact
     url: '#contact'
