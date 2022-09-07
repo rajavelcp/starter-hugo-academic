@@ -8,11 +8,9 @@ main:
     url: '#about'
     weight: 10
   - name: Resume
-    url: 'https://www.dropbox.com/s/4vnbca3m9mo7hno/Rajavel%20Pachamuthu_Resume.pdf?dl=0'
+    url: 'https://rajavel.me/uploads/resume.pdf'
     weight: 20
-  - name: Contact
-    url: '#contact'
-    weight: 30
+
 
   
 
