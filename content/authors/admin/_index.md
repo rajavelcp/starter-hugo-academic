@@ -30,6 +30,13 @@ education:
       institution: Anna University, Chennai, India
       year: 2009
 
+# Certification to show in About widget
+certification:
+  certificates:
+  - certificate: Cisco Certified Network Professional Enterprise (CCNP Enterprise)
+    institution: Cisco
+    validity: May 08, 2025
+    link: https://www.credly.com/earner/earned/badge/7e067af5-42dd-44b1-8fbc-8a5346aa2084
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
