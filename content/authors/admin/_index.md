@@ -50,7 +50,7 @@ social:
     link: https://www.linkedin.com/in/rajavel
   - icon: cv
     icon_pack: ai
-    link: https://rajavel.me/uploads/resume.pdf
+    link: https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -68,4 +68,4 @@ Hi, I am Rajavel! I am a Network Solutions Architect working at Tata Communicati
 
 I am a Certified Network Professional with over 13 years of experience in designing, deploying, and maintaining Network infrastructure for various Professional services companies and Telecom Service Providers. My area of expertise is Enterprise Network Design, Cloud Networking and SD-WAN Implementations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
