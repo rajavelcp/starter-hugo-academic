@@ -41,7 +41,7 @@ certification:
     institution: AWS
     validity: June 2022 - June 2025
     link: https://www.credly.com/earner/earned/badge/32772185-23e2-41a8-b07b-6ac717578dd9
-    - certificate: Cisco Certified Specialist - Enterprise Design
+  - certificate: Cisco Certified Specialist - Enterprise Design
     institution: Cisco
     validity: December 2018 - May 2025
     link: https://www.credly.com/earner/earned/badge/eb6706e8-e253-4e15-bc43-6ab3503c7c35
