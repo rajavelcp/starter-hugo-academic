@@ -68,15 +68,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rajavel
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rajavelcp
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rajavel
   - icon: cv
     icon_pack: ai
     link: https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/rajavelcp
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
