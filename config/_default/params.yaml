@@ -22,6 +22,7 @@ marketing:
     twitter: 'Rajavel'
   analytics:
     google_analytics: ''
+    google_tag_manager: 'G-YX67MDCR65'
     baidu_tongji: ''
   verification:
     google: ''
