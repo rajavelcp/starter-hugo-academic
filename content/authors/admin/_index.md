@@ -71,6 +71,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rajavel
+  - icon: acclaim
+    icon_pack: ai
+    link: https://www.credly.com/users/rajavel/badges
   - icon: cv
     icon_pack: ai
     link: https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf
