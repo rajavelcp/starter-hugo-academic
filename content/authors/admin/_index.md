@@ -48,6 +48,9 @@ certification:
   - certificate: Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
     validity: June 2014 - May 2025
     link: https://www.credly.com/earner/earned/badge/a7ee5647-6a24-431c-9bde-dc06f85ba103
+  - certificate: Versa Certified SD-WAN Associate
+    validity: December 2022 - December 2024
+    link: https://www.credly.com/badges/edc6957e-0f5c-4f34-bc4f-2dc19358fd5e   
   - certificate: Cisco Certified Network Associate - CCNA
     validity: October 2008 - May 2025
     link: https://www.credly.com/earner/earned/badge/46146fca-09b3-480a-be50-1203036a1459
