@@ -67,7 +67,7 @@ certification:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mail@rajavel.in
+    link: mailto:hi@rajavel.me
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/rajavel
