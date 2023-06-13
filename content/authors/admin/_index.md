@@ -54,6 +54,9 @@ certification:
   - certificate: Cisco Certified Network Associate - CCNA
     validity: October 2008 - May 2025
     link: https://www.credly.com/badges/46146fca-09b3-480a-be50-1203036a1459
+  - certificate: AWS Certified Solutions Architect – Associate
+    validity: June 2019 - June 2022
+    link: https://www.credly.com/badges/824dcaf3-9a9b-4b8e-8083-6988832bca8f
 #  - certificate: AWS Certified Advanced Networking – Specialty
 #    institution: AWS
 #    validity: June 2022 - June 2025
