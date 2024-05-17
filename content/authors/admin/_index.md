@@ -99,7 +99,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am Rajavel, a Network Architect. I am currently working at Tata Communications, India. 
+Hi, I am Rajavel, a Network Architect. I am currently working at HCL Technologies, Denmark. 
 
 I have over 14 years of experience in designing, deploying, and maintaining network infrastructure for various Professional services companies and Telecom Service Providers. My areas of expertise are Enterprise Network Design, Cloud Networking & SD-WAN design and deployments.
 
