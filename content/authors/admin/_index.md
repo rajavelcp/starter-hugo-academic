@@ -10,8 +10,8 @@ role: Network Architect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tata Communications
-    url: https://www.tatacommunications.com/
+  - name: HCL Technologies
+    url: https://www.hcltech.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Network Design and Solutions, CLoud Networking and SD-WAN.
@@ -99,7 +99,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, I am Rajavel, a Network Architect. I am currently working at HCL Technologies, Denmark. 
+Hi, I am Rajavel, a Network Architect. I am currently working at HCL Technologies Denmark ApS. 
 
 I have over 14 years of experience in designing, deploying, and maintaining network infrastructure for various Professional services companies and Telecom Service Providers. My areas of expertise are Enterprise Network Design, Cloud Networking & SD-WAN design and deployments.
 
