@@ -34,25 +34,25 @@ education:
 certification:
   certificates:
   - certificate: Cisco Certified Network Professional Enterprise (CCNP Enterprise)
-    validity: June 2014 - May 2025
+    validity: June 2014 - March 2028
     link: https://www.credly.com/badges/7e067af5-42dd-44b1-8fbc-8a5346aa2084
   - certificate: AWS Certified Advanced Networking – Specialty
     validity: June 2022 - June 2025
     link: https://www.credly.com/badges/32772185-23e2-41a8-b07b-6ac717578dd9
   - certificate: Cisco Certified Specialist - Enterprise Design
-    validity: December 2018 - May 2025
+    validity: December 2018 - March 2028
     link: https://www.credly.com/badges/eb6706e8-e253-4e15-bc43-6ab3503c7c35
   - certificate: Cisco Certified Specialist - Enterprise Core
-    validity: June 2014 - May 2025
+    validity: June 2014 - March 2028
     link: https://www.credly.com/badges/05baf88f-5352-48d8-bf46-63025968f23f
   - certificate: Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
-    validity: June 2014 - May 2025
+    validity: June 2014 - March 2028
     link: https://www.credly.com/badges/a7ee5647-6a24-431c-9bde-dc06f85ba103
   - certificate: Versa Certified SD-WAN Associate
     validity: December 2022 - December 2024
     link: https://www.credly.com/badges/edc6957e-0f5c-4f34-bc4f-2dc19358fd5e   
   - certificate: Cisco Certified Network Associate - CCNA
-    validity: October 2008 - May 2025
+    validity: October 2008 - March 2028
     link: https://www.credly.com/badges/46146fca-09b3-480a-be50-1203036a1459
   - certificate: AWS Certified Solutions Architect – Associate
     validity: June 2019 - June 2022
