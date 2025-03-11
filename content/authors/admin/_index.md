@@ -101,7 +101,7 @@ highlight_name: true
 
 Hi, I am Rajavel, a Network Architect. I am currently working at HCL Technologies Denmark ApS. 
 
-I have over 15 years of experience in designing, deploying, and maintaining network infrastructure for various Professional services companies and Telecom Service Providers. My areas of expertise are Enterprise Network Design, Cloud Networking & SD-WAN design and deployments.
+I have over 16 years of experience in designing, deploying, and maintaining network infrastructure for various Professional services companies and Telecom Service Providers. My areas of expertise are Enterprise Network Design, Cloud Networking & SD-WAN design and deployments.
 
 Thank you, for stopping by. 
 
