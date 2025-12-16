@@ -10,17 +10,17 @@ role: Network Architect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HCL Technologies
+  - name: HCL Technologies, Denmark
     url: https://www.hcltech.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Network Design and Solutions, CLoud Networking and SD-WAN.
+bio: My interests include Network Design and deployment, Cloud Networking and SD-WAN.
 
 # Interests to show in About widget
 interests:
-  - Network Design & Solutions
+  - Enterprise Network Design
+  - SD-WAN Design
   - Cloud Networking
-  - SD-WAN
   - Travelling
 
 # Education to show in About widget
@@ -82,7 +82,7 @@ social:
     link: https://www.credly.com/users/rajavel/badges
   - icon: cv
     icon_pack: ai
-    link: https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf
+    link: https://rajavel.me/uploads/Rajavel_Pachamuthu_CV.pdf
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/rajavelcp
