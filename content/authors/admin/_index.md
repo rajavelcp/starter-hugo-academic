@@ -103,6 +103,6 @@ Hi, My name is Rajavel and I am a network architect. I currently work at HCL Tec
 
 I have over 16 years of experience designing, deploying, and maintaining network infrastructure for professional services companies and telecom service providers. I specialize in enterprise network design, cloud networking, and SD-WAN design and deployment.
 
-Thank you, for stopping by. 
+Thank you for stopping by!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/Rajavel_Pachamuthu_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
