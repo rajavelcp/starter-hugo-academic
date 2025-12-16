@@ -105,4 +105,4 @@ I have over 16 years of experience in designing, deploying, and maintaining netw
 
 Thank you, for stopping by. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/Rajavel_Pachamuthu_Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://rajavel.me/uploads/Rajavel_Pachamuthu_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
