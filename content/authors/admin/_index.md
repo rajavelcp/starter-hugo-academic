@@ -14,12 +14,12 @@ organizations:
     url: https://www.hcltech.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Network Design and deployment, Cloud Networking and SD-WAN.
+bio: My interests include Network Design and deployment, Cloud Networking and SASE.
 
 # Interests to show in About widget
 interests:
-  - Enterprise Network Design
-  - SD-WAN Design
+  - Enterprise Network design & deployment
+  - SASE Design & deployment
   - Cloud Networking
   - Travelling
 
