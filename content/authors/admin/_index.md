@@ -57,6 +57,15 @@ certification:
   - certificate: AWS Certified Solutions Architect – Associate
     validity: June 2019 - June 2022
     link: https://www.credly.com/badges/824dcaf3-9a9b-4b8e-8083-6988832bca8f
+  - certificate: Check Point Certified Security Administrator
+    validity: October 2012 - October 2014
+    link: https://www.credly.com/users/rajavel/badges
+  - certificate: Cisco Certified Network Associate Data Center
+    validity: April 2015 - Dicontinued
+    link: https://www.credly.com/users/rajavel/badges
+  - certificate: Cisco Certified Network Associate Security
+    validity: August 2014 - Dicontinued
+    link: https://www.credly.com/users/rajavel/badges
 #  - certificate: AWS Certified Advanced Networking – Specialty
 #    institution: AWS
 #    validity: June 2022 - June 2025
