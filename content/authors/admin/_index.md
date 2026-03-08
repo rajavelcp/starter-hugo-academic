@@ -10,8 +10,8 @@ role: Network Architect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HCL Technologies, Denmark
-    url: https://www.hcltech.com
+  - name: VELUX, Denmark
+    url: https://www.velux.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include Network Design and deployment, Cloud Networking and SASE.
@@ -108,9 +108,9 @@ email: ''
 highlight_name: true
 ---
 
-Hi, My name is Rajavel and I am a network architect. I currently work at HCL Technologies Denmark ApS, where I support one of the Danish manufacturing companies. 
+Hi! My name is Rajavel, and I work at VELUX as a network architect. 
 
-I have over 16 years of experience designing, deploying, and maintaining network infrastructure for professional services companies and telecom service providers. I specialize in enterprise network design, cloud networking, and SASE design and deployment.
+I have over 16 years of experience designing, deploying, and maintaining network infrastructure for professional services companies and telecom service providers. My specialties include enterprise network design, cloud networking, and SASE design and deployment.
 
 Thank you for stopping by!
 
